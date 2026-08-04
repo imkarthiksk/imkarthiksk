@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/karthik0875" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://ai-resume-analyser-frontend-seven.vercel.app" target="_blank">
+<a href="https://portfolio-iota-liard-14kd8tgmuo.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=googlechrome&logoColor=2EE6A6" />
 </a>
 <a href="mailto:your-email@gmail.com">
